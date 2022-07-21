@@ -1,0 +1,122 @@
+.header
+{
+   background:#3b5998; 
+   width:100%;
+   height:85px;
+
+}
+.body
+{
+    margin:0;
+    font-family: helvetica Neue, Helvetica, Arial,sans-Serif;
+}
+.logo
+{
+    width:50%;
+    padding-top: 16px;
+    float:left;
+   
+}
+.login
+{
+    width:50%;
+    float:left;
+}
+.logo-text
+{
+   color:white;
+   font-size: 48px;
+   font-weight: bold;
+   text-decoration:none;
+   font-family: helvetica Neue, Helvetica, Arial,sans-Serif;
+   margin-left: 170px;
+   margin-top: 100px;
+}
+.login-label
+{
+    color:white;
+    font-size: 12px;
+}
+.login-controls
+{
+    margin-left: 200px;
+}
+.login
+{
+    padding-top: 10px;
+}
+.forgotten
+{
+    color:rgb(255, 255, 255);
+    font-size: 12px;
+    text-decoration: none;
+    color:#9cb4d8;
+}
+.forgotten:hover
+{
+    background: cornsilk;
+    color:black;
+}
+.sub
+{
+    background:#4267b2;
+    color:white;
+    border-color: blue;
+    cursor:pointer;
+}
+.sub:hover
+{
+    background: burlywood;
+    color:black;
+}
+
+.left   
+{
+    width:50%;
+    float:left;
+}
+
+.right    
+{
+    
+    width:50%;
+    float:left;
+    
+}
+.main-body
+{
+    background: linear-gradient(white,#bbbdc5);
+    width:100%;
+    height:650px;
+}
+.para
+{
+ font-weight:bold ;
+ font-size: 30px;
+ padding-left: 100px;
+ padding-top: 100px;
+}
+.border
+{
+   
+    padding:8px;
+    margin: 10px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-radius:5px;
+}
+.bord{
+    padding: 8px;
+    margin: 10px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-radius:5px;
+    }
+.dob
+{
+ 
+ font-size: 15px;
+ padding-left: 10px;
+ padding-top: 10px;
+}
+
